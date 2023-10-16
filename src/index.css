@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: kumbhsans Sans;
+  font-weight: 400;
+  src: url(assets/fonts/kumbhsans-regular.woff2);
+}
+
+@font-face {
+  font-family: kumbhsans Sans;
+  font-weight: 700;
+  src: url(assets/fonts/kumbhsans-bold.woff2);
+}
